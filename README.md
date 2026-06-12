@@ -1,6 +1,6 @@
 # max-api
 
-# MaxTraff [Купить MaxTraff](https://your-link.com)
+# MaxTraff [Купить ключ активации](https://t.me/maxtraff_manager).
 
 **MaxTraff** — это кроссплатформенное десктоп-приложение для автоматизации бизнес-процессов, связанных с работой в мессенджере MAX.
 

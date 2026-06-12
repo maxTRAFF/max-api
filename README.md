@@ -1,6 +1,9 @@
 # max-api
 
-# MaxTraff [Купить ключ активации](https://t.me/maxtraff_manager).
+# MaxTraff 
+
+[Купить ключ активации](https://t.me/maxtraff_manager).
+[Telegram канал - Успейте получить пробную подписку бесплатно](https://t.me/maxtraffsoft) 
 
 **MaxTraff** — это кроссплатформенное десктоп-приложение для автоматизации бизнес-процессов, связанных с работой в мессенджере MAX.
 
